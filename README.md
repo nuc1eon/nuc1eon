@@ -6,7 +6,7 @@
 
 ###
 
-Steward and lead of GoboLinux.<br><br>I love to do graphic design and websites too. I am not the best programmer (yet) :D
+Steward and lead of GoboLinux.<br><br>I love to do graphic design and websites too.
 <br>
 <br>
 Support me on ko-fi if you like what I am doing^^
