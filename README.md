@@ -6,12 +6,14 @@
 
 ###
 
-Steward and lead of the [**GoboLinux**](https://gobolinux.org/) distro:
+Steward and lead developer of...
 
-[![gobo](https://wiki.gobolinux.org//images/gobolinux_header.png)](https://gobolinux.org/)
+[![gobo](https://gobolinux.org/images/gobolinux_frontpage.png)](https://gobolinux.org/)
+
+I'm working on GoboLinux to present an alternative & unique perspective on the linux ecosytem. GoboLinux strives to become a distro, that will be handy, comfy, community & user oriented, innovative, novel and - most of all - fun!! :)
 
 <br>
-<br>I love to do graphic design, 3D printing & websites too :D
+Other than that, I love to do graphic design, 3D printing and websites too :D
 <br>
 <br>
 Support me on ko-fi if you like what I am doing^^
