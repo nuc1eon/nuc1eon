@@ -6,7 +6,13 @@
 
 ###
 
-Steward and lead of GoboLinux.<br><br>I love to do graphic design and websites too. I am not the best programmer (yet) :D<br><br>Support me on ko-fi if you like what I am doing^^
+Steward and lead of GoboLinux.<br><br>I love to do graphic design and websites too. I am not the best programmer (yet) :D
+<br>
+<br>
+Support me on ko-fi if you like what I am doing^^
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nuc1eon)
+
 
 ###
 
