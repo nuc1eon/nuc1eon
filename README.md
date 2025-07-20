@@ -51,3 +51,8 @@ Support me on ko-fi if you like what I am doing^^
 </div>
 
 ###
+
+<details>
+  <summary></summary>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nuc1eon.nuc1eon&right_color=darkturquoise"  />
+</details>
