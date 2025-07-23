@@ -12,7 +12,7 @@ Steward and lead developer of...
 
 *— A Linux distribution that turns the FHS on its pɐǝɥ 🙃*
 
-I'm working on GoboLinux to present an alternative & unique perspective on the linux ecosytem. GoboLinux strives to become a distro, that will be handy, comfy, community & user oriented, innovative, novel and - most of all - fun!! :)
+I'm working on GoboLinux to present an alternative & unique perspective on the linux ecosystem. GoboLinux strives to become a distro, that will be handy, comfy, community & user oriented, innovative, novel and - most of all - fun!! :)
 
 <br>
 Other than that I love graphics design, retro hardware, 3D printing... and creating websites too! :D
