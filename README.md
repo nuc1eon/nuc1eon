@@ -21,7 +21,7 @@ Other than that I love graphics design, retro hardware, 3D printing... and creat
 Support me on ko-fi if you like what I am doing^^
 
 ###
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nuc1eon)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fyrak1s)
 
 
 ###
